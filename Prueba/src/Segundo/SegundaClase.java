@@ -1,0 +1,5 @@
+package Segundo;
+
+class SegundaClase{
+	
+}
