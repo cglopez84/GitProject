@@ -5,5 +5,5 @@ class SegundaClase{
 	
 	String txt2 = "otro cambio";
 	
-	String txt3 = "texto para la rama develop";
+	String txt3 = "cambio 2";
 }

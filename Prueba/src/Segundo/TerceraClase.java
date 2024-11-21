@@ -3,6 +3,6 @@ package src.Segundo;
 class TerceraClase{
 	String txt = "texto de prueba";
 	
-	String txt2 = "cambios en develop";
+	String txt2 = "cambios 1";
 
 }
