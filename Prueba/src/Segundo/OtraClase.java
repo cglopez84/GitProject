@@ -7,8 +7,5 @@ class OtraClase{
 	String txt2 = "modificacion adicional";
 	
 	String txt3 ="clase jueves 21";
-<<<<<<< Updated upstream
 
-=======
->>>>>>> Stashed changes
 }
