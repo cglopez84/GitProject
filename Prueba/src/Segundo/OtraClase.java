@@ -6,5 +6,5 @@ class OtraClase{
 
 	String txt2 = "modificacion adicional";
 	
-	String txt3 ="clase jueves";
+	String txt3 ="clase jueves 21";
 }
