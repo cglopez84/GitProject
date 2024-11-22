@@ -8,6 +8,6 @@ class OtraClase{
 
 	String txt3 ="cambios en rama feature";
 	
-	String txt3 ="cambios en rama feature para cherry-pick";
+	String txt4 ="cambios en rama feature para cherry-pick";
 
 }
