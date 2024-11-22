@@ -7,5 +7,7 @@ class OtraClase{
 	String txt2 = "modificacion adicional   ";
 
 	String txt3 ="cambios en rama feature";
+	
+	String txt3 ="cambios en rama feature para cherry-pick";
 
 }
